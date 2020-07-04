@@ -1,0 +1,12 @@
+h1,nav{
+ text-align:center;
+ color:#0087ff;
+background:#00ffe73d;
+}
+ul,li,details{
+font-variant:small-caps;
+font-family:Arial;
+}
+html{
+background:#00cfff2e;;
+}
